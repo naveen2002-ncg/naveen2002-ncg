@@ -215,25 +215,6 @@ Computer vision solution capable of detecting and tracking objects in real-time 
 
 # Experience
 
-## RRH Test Engineer — Tejas Networks Pvt Ltd
-
-**Nov 2025 – Present**
-
-Working on RF validation, reliability testing, signal verification and analysis for telecom infrastructure products.
-
-### Scope of Work
-
-- RF Validation Testing
-- Signal Integrity Analysis
-- Reliability Verification
-- System Log Analysis
-- Hardware Quality Assessment
-- Telecom Product Testing
-
-**Skills:** `Testing` `RF Validation` `Networking` `System Analysis`
-
----
-
 ## Python Full Stack Development Intern — Fortune Cloude Technologies Pvt Ltd
 
 **Mar 2026 – Present**
@@ -250,6 +231,25 @@ Professional training focused on modern software engineering and full stack deve
 - Software Engineering Practices
 
 **Skills:** `Python` `JavaScript` `SQL` `HTML` `CSS`
+
+---
+
+## RRH Test Engineer — Tejas Networks Pvt Ltd
+
+**Nov 2025 – Present**
+
+Working on RF validation, reliability testing, signal verification and analysis for telecom infrastructure products.
+
+### Scope of Work
+
+- RF Validation Testing
+- Signal Integrity Analysis
+- Reliability Verification
+- System Log Analysis
+- Hardware Quality Assessment
+- Telecom Product Testing
+
+**Skills:** `Testing` `RF Validation` `Networking` `System Analysis`
 
 ---
 
