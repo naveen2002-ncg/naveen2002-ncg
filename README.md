@@ -309,30 +309,6 @@ Worked on machine learning concepts, predictive models and data analytics workfl
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-7C3AED?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Programming-8B5CF6?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-4C1D95?style=for-the-badge&logo=codechef"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -342,16 +318,6 @@ Worked on machine learning concepts, predictive models and data analytics workfl
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen2002-ncg&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen2002-ncg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=naveen2002-ncg&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
