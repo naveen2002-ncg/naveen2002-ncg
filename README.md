@@ -67,7 +67,7 @@ I enjoy transforming ideas into working products through clean architecture, eff
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql,html,css" />
 </p>
 
 ### Frontend
@@ -286,26 +286,6 @@ Worked on machine learning concepts, predictive models and data analytics workfl
 | Japanese Language Learning | JLPT N5 Preparation |
 
 </div>
-
----
-
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Foundations-6D28D9?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Database%20Fundamentals-7C3AED?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certified-8B5CF6?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-4C1D95?style=for-the-badge&logo=cisco)
 
 ---
 
